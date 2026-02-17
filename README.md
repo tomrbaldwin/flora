@@ -6,4 +6,4 @@
 
 - Platform for the gardening/conservation community to organise
 
-PWA built with typescript, react, supabase.
+PWA built with typescript, react, supabase, tailwind.
