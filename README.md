@@ -1,9 +1,9 @@
 # Flora
 
-- Indigenous flora atlas
+Indigenous flora atlas
 
-- Plant marketplace
+Plant marketplace
 
-- Platform for the gardening/conservation community to organise
+Gardening/conservation community platform to organise, network, socialise.
 
 PWA built with typescript, react, supabase, tailwind.
