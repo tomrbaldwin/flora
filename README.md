@@ -4,6 +4,6 @@ Indigenous flora atlas
 
 Plant marketplace
 
-Gardening/conservation community platform to organise, network, socialise.
+Gardening/conservation/re-wilding community platform. Organise, network, socialise.
 
 PWA built with typescript, react, supabase, tailwind.
